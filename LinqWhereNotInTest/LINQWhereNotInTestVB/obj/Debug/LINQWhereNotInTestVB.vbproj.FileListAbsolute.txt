@@ -1,0 +1,14 @@
+D:\Documents\Visual Studio 2015\Projects\LinqWhereNotInTest\LINQWhereNotInTestVB\bin\Debug\LINQWhereNotInTestVB.exe.config
+D:\Documents\Visual Studio 2015\Projects\LinqWhereNotInTest\LINQWhereNotInTestVB\bin\Debug\LINQWhereNotInTestVB.exe
+D:\Documents\Visual Studio 2015\Projects\LinqWhereNotInTest\LINQWhereNotInTestVB\bin\Debug\LINQWhereNotInTestVB.pdb
+D:\Documents\Visual Studio 2015\Projects\LinqWhereNotInTest\LINQWhereNotInTestVB\bin\Debug\LINQWhereNotInTestVB.xml
+D:\Documents\Visual Studio 2015\Projects\LinqWhereNotInTest\LINQWhereNotInTestVB\bin\Debug\EntityFramework.dll
+D:\Documents\Visual Studio 2015\Projects\LinqWhereNotInTest\LINQWhereNotInTestVB\bin\Debug\EntityFramework.SqlServer.dll
+D:\Documents\Visual Studio 2015\Projects\LinqWhereNotInTest\LINQWhereNotInTestVB\bin\Debug\EntityFramework.xml
+D:\Documents\Visual Studio 2015\Projects\LinqWhereNotInTest\LINQWhereNotInTestVB\bin\Debug\EntityFramework.SqlServer.xml
+D:\Documents\Visual Studio 2015\Projects\LinqWhereNotInTest\LINQWhereNotInTestVB\obj\Debug\LINQWhereNotInTestVB.vbprojResolveAssemblyReference.cache
+D:\Documents\Visual Studio 2015\Projects\LinqWhereNotInTest\LINQWhereNotInTestVB\obj\Debug\LINQWhereNotInTestVB.Resources.resources
+D:\Documents\Visual Studio 2015\Projects\LinqWhereNotInTest\LINQWhereNotInTestVB\obj\Debug\LINQWhereNotInTestVB.vbproj.GenerateResource.Cache
+D:\Documents\Visual Studio 2015\Projects\LinqWhereNotInTest\LINQWhereNotInTestVB\obj\Debug\LINQWhereNotInTestVB.exe
+D:\Documents\Visual Studio 2015\Projects\LinqWhereNotInTest\LINQWhereNotInTestVB\obj\Debug\LINQWhereNotInTestVB.xml
+D:\Documents\Visual Studio 2015\Projects\LinqWhereNotInTest\LINQWhereNotInTestVB\obj\Debug\LINQWhereNotInTestVB.pdb
